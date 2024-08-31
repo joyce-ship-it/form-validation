@@ -41,7 +41,7 @@ p > label{
 }
 
 button{
-    margin-right:20rem;
+    align-self: center;
     padding:.7rem;
     font-size: 1rem;
     border-radius: .8rem;
@@ -62,7 +62,7 @@ input:invalid{
 }
 input:valid{
     border:1px solid rgb(0, 255, 0);
-    background: rgb(138, 255, 138);
+    background: rgb(104, 255, 104);
 }
 
 .invalid{
