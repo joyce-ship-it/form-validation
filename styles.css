@@ -41,7 +41,6 @@ p > label{
 }
 
 button{
-    align-self: center;
     padding:.7rem;
     font-size: 1rem;
     border-radius: .8rem;
